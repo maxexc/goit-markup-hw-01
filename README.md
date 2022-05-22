@@ -1,2 +1,2 @@
-# goit-markup-hw-01
-Repository for training work
+# goit-markup-hw-02
+Home_Work_2
